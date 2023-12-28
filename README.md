@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Sergei 👋
 
 <!--
 **k2u6m5i3r/k2u6m5i3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
